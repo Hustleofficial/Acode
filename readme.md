@@ -1,4 +1,4 @@
-# Acode - Code Editor for Android
+# Acode - Code Editor for rcb Android
 
 <p align="center">
   <img src='res/logo_1.png' width='250'>
